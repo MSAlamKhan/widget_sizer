@@ -10,13 +10,13 @@ For general information about developing packages, see the Dart guide for
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
-# widgetSizer
+# widget_sizer
 
 Create stunning, responsive UIs effortlessly with SizeConfig, ensuring a flawless experience across all mobile devices and tablets.
 
 ## Introduction
 
-SizeConfig provides a comprehensive solution for creating responsive UIs that adapt seamlessly across various screen sizes and device types. It includes utilities to scale UI elements proportionally based on the screen dimensions.
+widget_sizer provides a comprehensive solution for creating responsive UIs that adapt seamlessly across various screen sizes and device types. It includes utilities to scale UI elements proportionally based on the screen dimensions.
 
 # Getting started
 
