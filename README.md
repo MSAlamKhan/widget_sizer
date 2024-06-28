@@ -85,20 +85,20 @@ Padding(
 ```
 
 
-## Methods
+# Methods
 
-# init(BuildContext context)
+## init(BuildContext context)
 This method initializes the SizeConfig class with the screen dimensions of the current device. It must be called before using any of the scaling methods. (It is recommended to call this method in you main.dart file to access the SizeConfig across the app)
 
-# static double scale(double size)
+## static double scale(double size)
 Scales the given size proportionally based on the screen width.
 
-# static double verticalScale(double size)
+## static double verticalScale(double size)
 Scales the given size proportionally based on the screen height.
 
-# static double moderateScale(double size, [double factor = 0.5])
+## static double moderateScale(double size, [double factor = 0.5])
 Applies a moderate scaling to the given size based on the screen width. The optional factor parameter allows you to control the degree of scaling.
 
-# static double moderateVerticalScale(double size, [double factor = 0.5])
+## static double moderateVerticalScale(double size, [double factor = 0.5])
 Applies a moderate scaling to the given size based on the screen height. The optional factor parameter allows you to control the degree of scaling.
 
