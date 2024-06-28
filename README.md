@@ -59,16 +59,16 @@ All methods in this package return a `double` value which can be directly used i
 ```dart
 // Example
 Text("Size Matters",style: 
-TextStyle(fontSize: SizeConfig.moderateScale(20),),
+TextStyle(fontSize: SizerConfig.moderateScale(20),),
 ),
 
 SizedBox(
-    height: SizeConfig.verticalScale(30),
+    height: SizerConfig.verticalScale(30),
 ),
 
 Container(
     width:SizeConfig.scale(30),
-    height: SizeConfig.verticalScale(30),
+    height: SizerConfig.verticalScale(30),
 ),
 ```
 
@@ -79,7 +79,7 @@ For widgets that require an EdgeInsetsGeometry value, use the method within an E
 ```dart
 // Example
 Padding(
-  padding: EdgeInsets.all(SizeConfig.scale(40)),
+  padding: EdgeInsets.all(SizerConfig.scale(40)),
   child: Widget(),
 )
 ```
