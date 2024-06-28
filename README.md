@@ -12,7 +12,7 @@ and the Flutter guide for
 -->
 # widget_sizer
 
-Create stunning, responsive UIs effortlessly with SizeConfig, ensuring a flawless experience across all mobile devices and tablets.
+Create stunning, responsive UIs effortlessly with widget_sizer, ensuring a flawless experience across all mobile devices and tablets.
 
 ## Introduction
 
