@@ -32,7 +32,7 @@ widget_sizer : ^1.0.0
 ## Add the following imports to your Dart code: 
 
 ```dart
-import 'package:# widget_sizer/widget_sizer.dart';
+import 'package:widget_sizer/widget_sizer.dart';
 ```
 
 ## Usage
